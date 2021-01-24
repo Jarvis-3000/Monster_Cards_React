@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Monster_Cards_React.git/static/css/main.3bf765f4.chunk.css",
+    "main.js": "/Monster_Cards_React.git/static/js/main.1acb7910.chunk.js",
+    "main.js.map": "/Monster_Cards_React.git/static/js/main.1acb7910.chunk.js.map",
+    "runtime-main.js": "/Monster_Cards_React.git/static/js/runtime-main.40ae3073.js",
+    "runtime-main.js.map": "/Monster_Cards_React.git/static/js/runtime-main.40ae3073.js.map",
+    "static/js/2.0d360834.chunk.js": "/Monster_Cards_React.git/static/js/2.0d360834.chunk.js",
+    "static/js/2.0d360834.chunk.js.map": "/Monster_Cards_React.git/static/js/2.0d360834.chunk.js.map",
+    "index.html": "/Monster_Cards_React.git/index.html",
+    "static/css/main.3bf765f4.chunk.css.map": "/Monster_Cards_React.git/static/css/main.3bf765f4.chunk.css.map",
+    "static/js/2.0d360834.chunk.js.LICENSE.txt": "/Monster_Cards_React.git/static/js/2.0d360834.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40ae3073.js",
+    "static/js/2.0d360834.chunk.js",
+    "static/css/main.3bf765f4.chunk.css",
+    "static/js/main.1acb7910.chunk.js"
+  ]
+}
