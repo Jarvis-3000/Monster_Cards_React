@@ -1,7 +1,7 @@
 import React from 'react'
 import CardList from './components/card-list/card-list.component'
 import SearchBox from "./components/searchBox/searchBox.component"
-import "./app.css"
+import "./App.css"
 
 
 class Call extends React.Component {
